@@ -202,4 +202,4 @@ def most_points_scored
 end
 
 
-puts team_names
+# puts team_names
